@@ -1,4 +1,6 @@
-                                                   **Hi, I'm Roopam | Typical Coder**
+<h4 align="center">  Hi I'm Roopam | Typical Coder</h4>
+
+<hr />
 
 - 👋 I'm Working On Flutter and DSAlgo these days ( experienced in these? drop tips)
 - 👀 Already worked on and in love with React & JavaScript.
