@@ -1,4 +1,4 @@
-                                                           Hi, I'm Roopam | Typical Coder
+                                                    Hi, I'm Roopam | Typical Coder
 
 - 👋 I'm Working On Flutter and DSAlgo these days ( experienced in these? drop tips)
 - 👀 Already worked on and in love with React & JavaScript.
