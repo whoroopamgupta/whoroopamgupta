@@ -3,7 +3,7 @@
 <hr />
 
 - 👋 I'm Working On DSAlgo these days ( experienced? drop tips)
-- 👀 Alrways working on JavaScript.
+- 👀 Always working on JavaScript.
 - 🌱 Looking Forward to exploring more in web dev & mobile dev. Love to be a part of exciting projects.
 - :dizzy: https://devroopam-react-github-users.netlify.app
 - 📫 Reach me : roopamgupta68@gmail.com
