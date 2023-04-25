@@ -2,7 +2,7 @@
 
 <hr />
 
-- 👋 I'm Working OnDevOPS these days ( experienced? drop tips)
+- 👋 I'm Working On DevOps these days ( experienced? drop tips)
 - 👀 Always working on JavaScript.
 - 🌱 Looking Forward to exploring more in web dev & mobile dev. Love to be a part of exciting projects.
 - :dizzy: https://devroopam-react-github-users.netlify.app
