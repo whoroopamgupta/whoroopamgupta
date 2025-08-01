@@ -1,10 +1,7 @@
-<h4 align="center">  Hi I'm Roopam | Typical Coder</h4>
+<h4 align="center">  Hi I'm Roopam | DevOps Engineer</h4>
 
 <hr />
 
-- 👋 I'm Working On DevOps these days ( experienced? drop tips)
-- 👀 Always working on JavaScript.
-- 🌱 Looking Forward to exploring more in web dev & devops. Love to be a part of exciting projects.
 - 📫 Reach me : roopamgupta68@gmail.com
 
 <!---
