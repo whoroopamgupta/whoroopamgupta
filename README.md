@@ -2,7 +2,7 @@
 
 <hr />
 
-- 📫 Find me : roopam.dev
+- 📫 Find me : <a href="https://www.roopam.dev/resume">roopam.dev</a>
 
 <!---
 whoroopamgupta/whoroopamgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
