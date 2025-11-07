@@ -2,7 +2,7 @@
 
 <hr />
 
-- 📫 Reach me : roopamgupta68@gmail.com
+- 📫 Find me : roopam.dev
 
 <!---
 whoroopamgupta/whoroopamgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
